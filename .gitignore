@@ -24,4 +24,4 @@ build
 *.njsproj
 *.sln
 *.sw?
-.vite-cache/
+.vite-cache/build/
